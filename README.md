@@ -2,7 +2,7 @@
 #### Web Development
 
 
-I love to work with React Js, React Router, Express Js, HTML, CSS, Bootstrap, Tailwinds. I'm very comfortable with JS,  Firebase and MongoDB. Also I'm very familiar to, Node Js, Netlify and Github.
+I love to work with React Js, React Router, Express Js, HTML, CSS, Bootstrap, Tailwinds. I'm very comfortable with JS,  Firebase and MongoDB. Also I'm very familiar to, Node Js, Netlify , Github and Chrome Dev Tools.
 
 Skills:  REACT/ React Router / JS / Firebase/ Express Js /MongoDB / HTML / CSS
 
