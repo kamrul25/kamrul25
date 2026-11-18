@@ -3,14 +3,20 @@
 </div>
 
 <h2 align="center">Hi 👋, I'm Kamrul Hasan Jaman</h2>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&height=35&lines=Passionate+about+Full-Stack+Web+Development;Interested+in+Cloud+Engineering;Enthusiast+in+TypeScript+and+Python" alt="Headline Ticker" />
+</div>
 
 <br/>
 
-- 👋 Hi, I'm **[@Ykamrul25](https://github.com/kamrul25)**
-- 💻 Passionate about **Full-Stack Web Development**, interested in **Cloud Engineering**, and an enthusiast in **TypeScript** and **Python**.
+- 👋 Hi, I'm **[@kamrul25](https://github.com/kamrul25)**
+  
 - 🖥️ I'm currently working with **React.js, TypeScript, and Redux** for frontend development.
+  
 - 🛠️ Currently learning **Node.js, Express.js, FastAPI, Prisma, PostgreSQL, and MongoDB** for building backend systems.
+  
 - 💬 Ask me about **Full-Stack (React, Node, Express, MongoDB, PostgreSQL)**.
+  
 - 📫 Feel free to reach me out via **[Email](mailto:kamrul.coder01@gmail.com)** 
 
 <br/>
